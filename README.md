@@ -1,5 +1,5 @@
-# Backend Beginning
-This is my First Approach to ES6 Javascript.
+# Backend Programming
+ES6 Javascript.
 
 | Directory | Project title |
 | --------- | ------------- |
